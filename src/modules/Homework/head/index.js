@@ -60,7 +60,7 @@ export default class HeadContainer extends HTMLDivElement {
 
     this.leftImg = document.createElement("img")
     this.leftImg.src = "https://dansup.github.io/bulma-templates/images/bulma.png"
-    this.leftImg.style.width='100px'
+    this.leftImg.style.width='200px'
     this.leftImg.alt = "Description"
     this.left.appendChild(this.leftImg)
 
