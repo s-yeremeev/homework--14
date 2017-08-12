@@ -50,11 +50,11 @@
   "main": "webpack.config.babel.js",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/olehmomothuman/lesson-13--js.git"
+    "url": "git+https://github.com/s-yeremeev/homework--14.git"
   },
   "author": "s.yeremeev",
   "bugs": {
-    "url": "https://github.com/olehmomothuman/lesson-13--js/issues"
+    "url": "https://github.com/s-yeremeev/homework--14/issues"
   },
-  "homepage": "https://github.com/olehmomothuman/lesson-13--js#readme"
+  "homepage": "https://github.com/s-yeremeev/homework--14#readme"
 }
